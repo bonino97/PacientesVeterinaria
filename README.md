@@ -17,4 +17,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 View the project: 
 
 
-https://angry-gates-f123c9.netlify.com
+https://sleepy-ardinghelli-5930f2.netlify.com/
